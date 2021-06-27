@@ -1836,7 +1836,6 @@ void generoMasVisto (int a, int c, int d, int r, int s, int t, char generoFavori
 
 }
 
-
 ///                                                          Extras
 
 void imprimirBienvenida()
