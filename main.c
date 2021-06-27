@@ -1875,3 +1875,4 @@ void imprimirBienvenida()
     sndPlaySound("LabOneSound.wav",1);       // Fondo = 1 Principal = 0
     Sleep(5000);
 }*/
+
